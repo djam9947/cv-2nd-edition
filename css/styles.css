@@ -1,0 +1,18 @@
+body {
+  background-color: #EDF4F2;}
+h1 {color: #90AACB;}
+h3 {color:#90AACB;}
+p {color:#9AD3BC;}
+li {color:#9AD3BC;}
+h5 {color:#90AACB;}
+h4 {color:#90AACB;}
+hr {border-style: dotted none none none;
+  background-color: none;
+  border-color: #97E5EF;
+  border-width: 5px;
+  height: 0px;
+  width: 40%;}
+  th {color:#90AACB;}
+  td {color:#79B4B7;}
+  label {color:#90AACB;}
+  border-image {linear-gradient(#f6b73c, #4d9f0c) 30;)}
